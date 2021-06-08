@@ -1,13 +1,5 @@
 # chatbotApp (chatbot)
 
-test
-
-## git clone
-```bash
-git clone https://username@dev.azure.com/ANDRESCORONADOLZR/ChatBot/_g
-it/ChatBot
-```
-
 ## Install the dependencies
 ```bash
 npm install
